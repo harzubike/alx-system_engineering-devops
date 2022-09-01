@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod r-x betty
+chmod 4 betty
